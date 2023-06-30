@@ -7,7 +7,7 @@
 
 # Deployed URL 👉 [Click here](https://typescript-bootstrap.vercel.app/)
 
-- Rushi Joshi (My Linkedin profile :- https://www.linkedin.com/in/rushijoshi3798/)
+- Rushi Joshi (My Linkedin profile :- https://www.linkedin.com/in/rushijoshi3798/) <br/>
               (My Portfolio :- https://rushijoshi3798.github.io/)
 
   <br/>
