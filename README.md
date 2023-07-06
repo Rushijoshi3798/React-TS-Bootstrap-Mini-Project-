@@ -13,6 +13,16 @@
   
 - Source Code(GitHub link):- https://github.com/Rushijoshi3798/React-TS-Bootstrap-Mini-Project-
 
+## Notes page :
+
+![NotesPage](./public/Notes_app.png)
+
+
+## Create Note page :
+
+![CreateNotePage](./public/createNote_page.png)
+
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
